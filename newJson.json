@@ -3,7 +3,7 @@
     "artName": "San Francisco",
     "frontImageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/golden_gate.jpeg",
     "lumaUrl": "https://lumalabs.ai/embed/e1316b43-d3bf-46c0-8d4d-db357176929d",
-    "gradientColor": "#ffbf00",
+    "gradientColor": "#3f51b5",
     "zipCode": "12345",
     "artworks": [
       {
@@ -44,37 +44,37 @@
     ]
   },
   "art2": {
-    "artName": "Berkeley",
-    "frontImageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/golden_gate.jpeg",
+    "artName": "Sevilla",
+    "frontImageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork2/sevilla.jpeg",
     "lumaUrl": "https://lumalabs.ai/embed/e1316b43-d3bf-46c0-8d4d-db357176929d",
-    "gradientColor": "#3f51b5",
+    "gradientColor": "#ff9800",
     "zipCode": "12345",
     "artworks": [
       {
-        "title": "Mammoth: The Ice Age Giant",
+        "title": "The Caravels of Columbus",
         "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Mammoth.jpeg",
-        "description": "A fusion of classic artistry and robotic precision, this piece reimagines Renaissance masterpieces through a cybernetic lens.",
+        "description": "Embark on a journey through time with 'Celestial Voyagers: The Caravels of Columbus'. This masterpiece transports you to the banks of Seville's Guadalquivir River, where history and fantasy intertwine. Behold the Torre del Oro, a testament to Seville's rich past, as it stands majestically at sunset. Floating ethereally nearby are the famed caravels of Christopher Columbus, captured in stunning detail. Each ship, a symbol of exploration and discovery, tells a story of courage and conquest. This exhibit merges the realms of the tangible and the fantastical, inviting you to explore the dawn of a new world amidst the golden glow of history.",
         "imageDetectionUrl": "example.com/art1/detection1",
         "usdzUrl": "example.com/art1/work1.usdz"
       },
       {
-        "title": "Tribal Echoes: The Ancestral Mask",
+        "title": "Dancing Under the Setas de Sevilla",
         "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Mask.jpeg",
-        "description": "Explore the mind of Da Vinci as an interactive hologram, bringing his inventions to life in virtual reality.",
+        "description": "Discover 'Flamenco Rhythms: Dancing Under the Setas de Sevilla', a celebration of Andalusian culture. This exhibit, set beneath the Metropol Parasol's modern silhouette, brings flamenco's passionate dance to life. Experience the fusion of emotion, tradition, and art as you learn about flamenco's deep roots in Spanish heritage. The Setas, a symbol of Seville's innovation, provides a stunning backdrop, intertwining the city's history with the timeless beauty of flamenco.",
         "imageDetectionUrl": "example.com/art1/detection2",
         "usdzUrl": "example.com/art1/work2.usdz"
       },
       {
-        "title": "Porsche 911: Timeless Elegance",
+        "title": "Portada de la Feria",
         "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Porsche.jpeg",
-        "description": "Impressionism meets the digital age in this pixel art display, where brush strokes are replaced by digital squares.",
+        "description": "Experience 'Luminous Fiesta: The Portada de la Feria de Sevilla', a captivating display of Spanish festivity and architecture. This image showcases the Portada, the iconic entrance of Sevilla's famed fair, adorned with countless twinkling lightbulbs. Its design, devoid of horseshoe arches, embodies traditional Spanish elements. The Portada stands against the night sky, its lights creating a magical atmosphere. This exhibit celebrates Spanish culture, inviting viewers to immerse themselves in the vibrant energy and history of the Feria de Sevilla.",
         "imageDetectionUrl": "example.com/art1/detection3",
         "usdzUrl": "example.com/art1/work3.usdz"
       }
     ]
   },
   "art3": {
-    "artName": "San jose",
+    "artName": "New York",
     "frontImageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/golden_gate.jpeg",
     "lumaUrl": "https://lumalabs.ai/embed/e1316b43-d3bf-46c0-8d4d-db357176929d",
     "gradientColor": "#3f51b5",
