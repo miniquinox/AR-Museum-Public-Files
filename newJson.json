@@ -52,7 +52,7 @@
     "artworks": [
       {
         "title": "The Caravels of Columbus",
-        "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Caravelas.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork2/Caravelas.jpeg",
         "description": "Embark on a journey through time with 'Celestial Voyagers: The Caravels of Columbus'. This masterpiece transports you to the banks of Seville's Guadalquivir River, where history and fantasy intertwine. Behold the Torre del Oro, a testament to Seville's rich past, as it stands majestically at sunset. Floating ethereally nearby are the famed caravels of Christopher Columbus, captured in stunning detail. Each ship, a symbol of exploration and discovery, tells a story of courage and conquest. This exhibit merges the realms of the tangible and the fantastical, inviting you to explore the dawn of a new world amidst the golden glow of history.",
         "imageDetectionUrl": "example.com/art1/detection1",
         "usdzUrl": "example.com/art1/work1.usdz"
