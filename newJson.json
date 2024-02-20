@@ -10,35 +10,35 @@
         "title": "Jurassic Majesty: The T-Rex",
         "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Trex.jpeg",
         "description": "Step into the shadows of prehistory with 'Jurassic Majesty: The T-Rex Unleashed'. Here, the legendary T-Rex rises again, casting an imposing silhouette against the backdrop of an era lost to time. Witness the embodiment of prehistoric power as you stand face-to-face with the life-sized ruler of ancient realms. Its formidable presence, from the dagger-like teeth to the piercing gaze, is a testament to nature's untamed forces. Interactive elements invite you to uncover the enigmatic life and times of the T-Rex, igniting a sense of awe and mystery that surrounds the king of the dinosaurs.",
-        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/earth.jpg",
+        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/trex.jpeg",
         "usdzUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Mustang.usdz"
       },
       {
         "title": "Porsche 911: Timeless Elegance",
         "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Porsche.jpeg",
         "description": "The 'Porsche 911: Timeless Elegance' exhibit is a journey through the legacy of design and innovation. Sleek lines and refined curves define the essence of this automotive masterpiece. Each curve tells a story of speed, each line a narrative of craftsmanship. The Porsche 911 stands not merely as a car but as a beacon of enduring design, inviting you to explore the saga of its evolution and the paths it has carved through the annals of automotive history.",
-        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/laundry.jpg",
+        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/porsche.jpeg",
         "usdzUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Bugatti.usdz"
       },
       {
         "title": "Mammoth: The Ice Age Giant",
         "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Mammoth.jpeg",
         "description": "Venture into the chill of the Ice Age with 'Mammoth: The Ice Age Giant'. This exhibit resurrects the woolly mammoth amidst the frozen tundra of its time. Towering above, the mammoth's tusks curve like sabers, and its fur whispers tales of survival. Amidst a landscape where the mammoth reigned, discover the secrets of its existence and the mysteries of its disappearance in an experience that transcends time.",
-        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/mustang.jpg",
+        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/mammoth.jpeg",
         "usdzUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Cafe_Racer.usdz"
       },
       {
         "title": "Tribal Echoes: The Ancestral Mask",
         "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Mask.jpeg",
         "description": "Tribal Echoes: The Ancestral Mask' beckons you into the sacred world of tribal heritage. Each mask, a repository of ancient wisdom, carries the whispers of the forest and the spirits of the past. Embark on a mystical journey through tribal lore and discover the profound connection between art, nature, and the divine. Let the masks reveal their stories—tales woven into the very fabric of human history.",
-        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/mustang.jpg",
+        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/mask.jpeg",
         "usdzUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Cafe_Racer.usdz"
       },
       {
         "title": "Feral Spirit: The Bengal Tiger",
         "imageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Tiger.jpeg",
         "description": "In 'Feral Spirit: The Bengal Tiger', the king of the jungle emerges from the mists of the wild. This AR experience brings you face-to-face with the piercing eyes and regal stature of the Bengal tiger. The exhibit tells a compelling tale of grace, power, and the delicate balance of life. It's a call to the wild that beckons you to delve deeper into the mysteries of this majestic predator and the enchanted lands it prowls.",
-        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/mustang.jpg",
+        "imageDetectionUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/tiger.jpeg",
         "usdzUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/Cafe_Racer.usdz"
       }
     ]
