@@ -75,9 +75,9 @@
   },
   "art3": {
     "artName": "New York",
-    "frontImageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork1/golden_gate.jpeg",
+    "frontImageUrl": "https://raw.githubusercontent.com/miniquinox/AR-Museum-Public-Files/main/artworks/artwork3/central_park.jpeg",
     "lumaUrl": "https://lumalabs.ai/embed/e1316b43-d3bf-46c0-8d4d-db357176929d",
-    "gradientColor": "#3f51b5",
+    "gradientColor": "#4caf50",
     "zipCode": "12345",
     "artworks": [
       {
